@@ -3,7 +3,7 @@
 DevOps · Linux · Kubernetes
 
 Part of the TOBi platform migration team at **Vodafone Portugal**.
-Completed **PICK 2024** by LINUXtips
+Completed **PICK (Programa intensivo de Containers e Kubernetes) 2024** by LINUXtips
 
 Studying for **CKA** (Linux Foundation) · Studying for **LPIC-1** (LPI)
 
@@ -16,7 +16,6 @@ Studying for **CKA** (Linux Foundation) · Studying for **LPIC-1** (LPI)
 **Projects**
 
 - [kubernetes-homelab](https://github.com/lucas-92/kubernetes-homelab) — GitOps pipeline: ArgoCD · Terraform · Prometheus · GitHub Actions
-- [LINUXtips-PICK](https://github.com/lucas-92/LINUXtips-PICK) — PICK 2024 challenge
 - [linux-automation-toolkit](https://github.com/lucas-92/linux-automation-toolkit) — Bash & Ansible automation for Linux ops
 
 ---
