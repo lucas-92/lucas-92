@@ -1,4 +1,24 @@
-- 👋 Hi, I’m @den7ee Lucas
-- 👀 I’m interested in Linux and Devops
-- 🌱 I'm studying about Docker and Kubernetes
-- 📫 How to reach me: https://www.linkedin.com/in/lucas92
+# Lucas Santos
+
+DevOps · Linux · Kubernetes
+
+Part of the TOBi platform migration team at **Vodafone Portugal**.
+Completed **PICK 2024** by LINUXtips
+
+Studying for **CKA** (Linux Foundation) · Studying for **LPIC-1** (LPI)
+
+---
+
+**Stack:** Kubernetes · Docker · Helm · ArgoCD · Terraform · GitHub Actions · Prometheus · Grafana · Linux · Bash
+
+---
+
+**Projects**
+
+- [kubernetes-homelab](https://github.com/lucas-92/kubernetes-homelab) — GitOps pipeline: ArgoCD · Terraform · Prometheus · GitHub Actions
+- [LINUXtips-PICK](https://github.com/lucas-92/LINUXtips-PICK) — PICK 2024 challenge
+- [linux-automation-toolkit](https://github.com/lucas-92/linux-automation-toolkit) — Bash & Ansible automation for Linux ops
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas92-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/lucas92)
