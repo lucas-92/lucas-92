@@ -13,11 +13,4 @@ Studying for **CKA** (Linux Foundation) · Studying for **LPIC-1** (LPI)
 
 ---
 
-**Projects**
-
-- [kubernetes-homelab](https://github.com/lucas-92/kubernetes-homelab) — GitOps pipeline: ArgoCD · Terraform · Prometheus · GitHub Actions
-- [linux-automation-toolkit](https://github.com/lucas-92/linux-automation-toolkit) — Bash & Ansible automation for Linux ops
-
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas92-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/lucas92)
