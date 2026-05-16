@@ -9,7 +9,7 @@ Studying for **CKA** (Linux Foundation) · Studying for **LPIC-1** (LPI)
 
 ---
 
-**Stack:** Kubernetes · Docker · Helm · ArgoCD · Terraform · GitHub Actions · Prometheus · Grafana · Linux · Bash
+**Stack:** Kubernetes · Docker · Helm · ArgoCD · Terraform · GitHub Actions · Prometheus · Grafana · Linux · Bash · Ansible
 
 ---
 
