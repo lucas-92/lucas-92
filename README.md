@@ -5,7 +5,7 @@ DevOps · Linux · Kubernetes
 Part of the TOBi platform migration team at **Vodafone Portugal**.
 Completed **PICK (Programa intensivo de Containers e Kubernetes) 2024** by LINUXtips
 
-Studying for **CKA** (Linux Foundation) · Studying for **LPIC-1** (LPI)
+Studying for **LPIC-1**, **Terraform Associate (004)**, **CKA** and **EX294**
 
 ---
 
